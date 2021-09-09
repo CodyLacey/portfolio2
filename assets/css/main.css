@@ -2395,11 +2395,11 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: 100%;
+				width: 110%;
 			}
 
 			.image.fit.me {
-				width: 157%;
+				width: 150%;
     			padding-right: 71%;
     			padding-left: 9%;
     			margin-top: -23%;
@@ -3263,7 +3263,6 @@ input, select, textarea {
 			}
 
 	}
-
 /* Large */
 
 	@media screen and (max-width: 1140px) {
