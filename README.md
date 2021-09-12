@@ -1,23 +1,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/codylacey/truffle-cooking">
+  <a href="https://github.com/codylacey/portfolio2" target="_blank">
     <img src="/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Truffle</h3>
+  <h3 align="center">Portfolio</h3>
 
   <p align="center">
-    Save your favorite recipes in one place. Import just the recipe from any website without the distractions or clutter and generate grocery lists—Truffle’s everything a cook needs.
+    It's my portfolio! come check it out!
     <br />
-    <a href="https://github.com/codylacey/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/codylacey/portfolio2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://truffle-cooking.herokuapp.com" target="_blank">View Demo</a>
+    <a href="https://codylacey.com" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/codylacey/truffle-cooking/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/codylacey/portfolio2/issues" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/codylacey/truffle-cooking/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/codylacey/portfolio2/issues" target="_blank">Request Feature</a>
   </p>
 </p>
 
@@ -54,50 +54,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://i.imgur.com/vVdc3X9.gif" width="60%" alt="truffle" data-canonical-src="https://i.imgur.com/vVdc3X9.gif" style="max-width:100%;">
-
-Save your favorite recipes in one place. Import just the recipe from any website without distractions or clutter and generate grocery lists—Truffle’s everything a cook needs.
-
+<img src="https://i.imgur.com/MaoeDyR.gif" width="60%" alt="portfolio" data-canonical-src="https://i.imgur.com/MaoeDyR.gif" style="max-width:100%;">
 
 ### Built With
 
-* [Nodejs](https://nodejs.org/en/)
-* [Express](https://expressjs.com/)
-* [Mongodb](https://www.mongodb.com/)
-* [Mongoose](https://mongoosejs.com/docs/)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/codylacey/truffle-cooking.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/codylacey/truffle-cooking/issues) for a list of proposed features (and known issues).
-
-
+* [Sass](https://sass-lang.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -124,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@codylaceydev](https://twitter.com/codylaceydev) - email cody@codylacey.com
 
-Project Link: [https://github.com/codylacey/truffle-cooking](https://github.com/codylacey/truffle-cooking)
+Project Link: [https://github.com/codylacey/portfolio2](https://github.com/codylacey/portfolio2)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
