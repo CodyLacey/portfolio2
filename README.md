@@ -8,7 +8,7 @@
   <h3 align="center">Portfolio</h3>
 
   <p align="center">
-    It's my portfolio! come check it out!
+    It's my portfolio! come check it out
     <br />
     <a href="https://github.com/codylacey/portfolio2"><strong>Explore the docs »</strong></a>
     <br />
